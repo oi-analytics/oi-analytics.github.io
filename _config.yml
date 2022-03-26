@@ -23,7 +23,7 @@ logo: /assets/img/logo.png
 email: enquiries@oi-analytics.com
 author: Oxford Infrastructure Analytics
 description: >- # this means to ignore newlines until "baseurl:"
-  Climate Risk Analysis for Infrastructure Systems.
+  Climate Risk Analysis for Infrastructure Systems
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.oi-analytics.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: oia
