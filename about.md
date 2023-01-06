@@ -4,6 +4,20 @@ title: About
 permalink: /about/
 ---
 
+Oxford Infrastructure Analytics (OIA) was founded in 2017 by three academics
+from the award-winning Oxford Programme for Sustainable Infrastructure
+Systems (OPSIS), based at the University of Oxford.
+
+Our team of experts have been pioneering the development of a new generation
+of data, tools, insights and education that have been published in leading
+academic journals and are recognised worldwide.
+
+We have added value to a variety of clients from government, industry,
+research and the third sector, creating impacts that accelerate the
+transition to sustainable and resilient infrastructure globally. 
+
+
+<!--
 ## Analytical capabilities
 
 Oxford Infrastructure Analytics has developed a unique set of capabilities for
@@ -47,3 +61,4 @@ Our team has been responsible for:
 We work with a variety of clients from government, industry, research and the
 third sector. So far, our clients include the Corridors for Growth Multi-donor
 Trust Fund, the World Bank, UNOPS, UK Aid, and the UK Environment Agency.
+-->
