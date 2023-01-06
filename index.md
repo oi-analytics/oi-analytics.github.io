@@ -1,6 +1,10 @@
 ---
 layout: default
+title: About
+permalink: /about/
 ---
+
+##Climate Risk Analysis for Infrastructure Systems
 
 We provide data, tools, insights and education to accelerate the transition to
 sustainable and resilient infrastructure globally.
