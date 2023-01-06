@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Index
+permalink: /index/
 ---
 
 ##Climate Risk Analysis for Infrastructure Systems
