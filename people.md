@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 ## Selected Publications
 
 Fuldauer, L., Thacker, S. and Hall, J.W. (2022) Informing national adaptation for
