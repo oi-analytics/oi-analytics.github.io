@@ -3,8 +3,7 @@ layout: default
 title: Index
 permalink: /index/
 ---
-
-##Climate Risk Analysis for Infrastructure Systems
+## Climate Risk Analysis for Infrastructure Systems
 
 We provide data, tools, insights and education to accelerate the transition to
 sustainable and resilient infrastructure globally.
