@@ -1,7 +1,7 @@
 ---
 layout: default
-title: people
-permalink: /people/
+title: Knowledge
+permalink: /knowledge/
 ---
 
 ## Selected Publications
