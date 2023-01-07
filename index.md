@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+permalink: /index/
 ---
 
 ## Climate Risk Analysis for Infrastructure Systems
