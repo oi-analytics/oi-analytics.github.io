@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quantifying Freight Adaptation Benefits in Argentina"
+title:  "Quantifying freight adaptation benefits in argentina"
 date:   2022-05-01 09:00:00 +0000
 ---
 
