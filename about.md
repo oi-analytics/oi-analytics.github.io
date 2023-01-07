@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 ## About us
+     
+<img src="{{site.logo | relative_url}}"
+  alt="{{ site.title | default: site.github.repository_name }}" />
 
 Oxford Infrastructure Analytics (OIA) was founded in 2017 by three academics
 from the award-winning Oxford Programme for Sustainable Infrastructure
