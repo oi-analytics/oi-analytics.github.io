@@ -1,3 +1,5 @@
 ---
-layout: posts
+layout: default
+title: News
+permalink: /blog/
 ---
