@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About us
  
-<img src="assets/img/sys_of_sys.png" alt="Infrastructure System of Systems" width="330" height="300">
+<img src="/assets/img/sys_of_sys.png" alt="Infrastructure System of Systems" width="330" height="300">
 
 Oxford Infrastructure Analytics (OIA) was founded in 2017 by three academics
 from the award-winning Oxford Programme for Sustainable Infrastructure
