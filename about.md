@@ -19,9 +19,9 @@ research and the third sector, creating impacts that accelerate the
 transition to sustainable and resilient infrastructure globally. 
 
 
+<!--
 <img src="/assets/img/sys_of_sys.png" alt="Infrastructure System of Systems" width="330" height="300">
 
-<!--
 ## Analytical capabilities
 
 Oxford Infrastructure Analytics has developed a unique set of capabilities for
