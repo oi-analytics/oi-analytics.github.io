@@ -13,8 +13,8 @@ for infrastructure systems.
 
 Our unique approach represents the interconnectedness and interdependence of
 infrastructure systems, enabling us to more accurately quantify physical climate
-risks and more efficiently prioritise resources to enhance resilience through
-adaptation. 
+risks for a more efficient prioritisation of resources to enhance resilience
+through adaptation. 
 
 Our team of experts are committed to supporting evidence-based decision making in
 practice to help shape a better future for people and planet. 
