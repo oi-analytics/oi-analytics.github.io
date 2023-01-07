@@ -11,10 +11,10 @@ Grounded in pioneering, peer-reviewed science that has been developed and
 demonstrated over the past decade, we are world-leaders in climate risk analysis
 for infrastructure systems.
 
-Our unique, high-resolutions tools represent infrastructure as systems, including
-their interconnectedness and interdependence, to more accurately quantify physical
-climate risks and to support a more efficient allocation of resources to enhance
-resilience through adaptation.
+Our unique approach represents the interconnectedness and interdependence of
+infrastructure systems, enabling us to more accurately quantify physical climate
+risks and more efficiently prioritise resources to enhance resilience through
+adaptation. 
 
 Our team of experts are committed to supporting evidence-based decision making in
 practice to help shape a better future for people and planet. 
