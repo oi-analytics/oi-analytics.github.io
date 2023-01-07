@@ -1,19 +1,13 @@
 ---
 layout: default
+title: Services
+permalink: /services/
 ---
 
 ## Data
 
-Data
-
 ## Tools
-
-Tools
 
 ## Analytics
 
-Analytics
-
 ## Education
-
-Education
