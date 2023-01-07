@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Sectors
+permalink: /sectors/
 ---
 
 ## Financial services
