@@ -8,6 +8,6 @@ permalink: /services/
 
 ## Tools
 
-## Analytics
+## Insights
 
 ## Education
