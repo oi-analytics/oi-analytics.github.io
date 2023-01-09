@@ -5,7 +5,7 @@ permalink: /services/
 ---
 ## Services
 We use our unique knowledge of infrastructure systems and ground-breaking tools to
-provide a variety of impactful services.
+address the harmful impacts of climate change.
 <br>
 <br>
 <img src="/assets/img/services.png" alt="Example services">
@@ -32,5 +32,5 @@ that are underpinned by the best available data and tools.
 ## Education
 Driven by our academic roots and our pursuit of knowledge, we are committed to delivering
 high-quality education as a tool to empower. From universities to national governments,
-we have help shape the next generation of researchers, technical experts and high-level
+we help shape the next generation of researchers, technical experts and high-level
 decision makers. 
