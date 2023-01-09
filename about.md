@@ -32,4 +32,5 @@ Founder and Managing Director of OIA
 Honorary Research Associate at OPSIS, University of Oxford
 <br>
 <br>
+<br>
 OIA works with a diverse team of expert associates to deliver value and excellence to clients on every project.
