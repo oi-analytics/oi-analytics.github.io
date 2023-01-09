@@ -17,4 +17,4 @@ infrastructure systems, enabling us to more accurately quantify physical climate
 risks for a more efficient prioritisation of resources to enhance resilience
 through adaptation. 
 
-<img src="/assets/img/sys_of_sys.png" alt="Infrastructure System of Systems" width="330" height="300">
+<img src="/assets/img/sys_of_sys.png" alt="Infrastructure System of Systems" width="691" height="637" class ="center">
