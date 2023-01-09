@@ -15,123 +15,123 @@ are recognised worldwide.
 ## Selected Publications
 
 
-Fuldauer, L., Thacker, S. and Hall, J.W. (2022) Informing national adaptation for
+<small>Fuldauer, L., Thacker, S. and Hall, J.W. (2022) Informing national adaptation for
 sustainable development through spatial systems modelling. Global Environmental Change,
-71(102396). 
+71(102396).</small>
   
-Fuldauer, L.I., Thacker, S., Haggis, R.A., Fuso-Nerini, F., Nicholls, R.J.,
+<small>Fuldauer, L.I., Thacker, S., Haggis, R.A., Fuso-Nerini, F., Nicholls, R.J.,
 Hall, J.W. (2022) Targeting climate adaptation to safeguard and advance the Sustainable
-Development Goals. Nature Communications, 13. 
+Development Goals. Nature Communications, 13.</small>
   
-Murgatroyd, A., Gavin, H., Becher, O., Coxon, G., Hunt, D., Fallon, E., Wilson, J.,
+<small>Murgatroyd, A., Gavin, H., Becher, O., Coxon, G., Hunt, D., Fallon, E., Wilson, J.,
 Cuceloglu, G., and Hall, J.W. (2022) Strategic analysis of the drought resilience of
-water supply systems. Philosophical Transactions of the Royal Society A, 380. 20210292. 
+water supply systems. Philosophical Transactions of the Royal Society A, 380. 20210292.</small>
   
-Adshead, D., Román García, O., Thacker, S. and Hall, J.W. (2021) Infrastructure
+<small>Adshead, D., Román García, O., Thacker, S. and Hall, J.W. (2021) Infrastructure
 strategies for achieving the global development agendas in small islands. Earth's
-Future, 9(2). 
+Future, 9(2).</small>
   
-Ilalokhoin, O., Pant, R. and Hall, J.W. (2021) A multi-track rail model for
+<small>Ilalokhoin, O., Pant, R. and Hall, J.W. (2021) A multi-track rail model for
 estimating journey impacts from extreme weather events: a case study of Great
-Britain's rail network. International Journal of Rail Transportation: 1-26. 
+Britain's rail network. International Journal of Rail Transportation: 1-26.</small>
   
-Kesete, Y.Y., Raffo, V., Pant, R., Koks, E.E., Paltan, H., Russell, T. and Hall,
+<small>Kesete, Y.Y., Raffo, V., Pant, R., Koks, E.E., Paltan, H., Russell, T. and Hall,
 J.W. (2021) Climate Change Risk Analysis of Argentina's Land Transport Network.
-World Bank Group 
+World Bank Group.</small>
   
-Byers, E.A., Coxon, G., Freer, J. and Hall, J.W. (2020) Drought and climate
+<small>Byers, E.A., Coxon, G., Freer, J. and Hall, J.W. (2020) Drought and climate
 change impacts on cooling water shortages and electricity prices in Great Britain.
-Nature Communications, 11. 2239. 
+Nature Communications, 11. 2239.</small>
   
-Oh, J.E., Espinet Alegre, X., Pant, R., Koks, E.E., Russell, T., Schoenmakers,
+<small>Oh, J.E., Espinet Alegre, X., Pant, R., Koks, E.E., Russell, T., Schoenmakers,
 R. and Hall, J.W. (2020) Addressing Climate Change in Transport: Volume 2: Pathway
-to Resilient Transport. World Bank, Washington DC. 
+to Resilient Transport. World Bank, Washington DC.</small>
   
-Verschuur, J., Koks, E. and Hall, J.W. (2020) Port disruptions due to natural
+<small>Verschuur, J., Koks, E. and Hall, J.W. (2020) Port disruptions due to natural
 disasters: insights into port and logistics resilience. Transportation Research
-Part D: Transport and Environment, 85. 102393. 
+Part D: Transport and Environment, 85. 102393.</small>
   
-Zorn, C., Pant, R., Thacker, S. and Shamseldin, A.Y. (2020) Evaluating the
+<small>Zorn, C., Pant, R., Thacker, S. and Shamseldin, A.Y. (2020) Evaluating the
 magnitude and spatial extent of disruptions across interdependent national
-infrastructure networks. ASME J. Risk Uncertainty Part B, 6(2). 020904. 
+infrastructure networks. ASME J. Risk Uncertainty Part B, 6(2). 020904.</small>
   
-Hall, J.W., Thacker, S., et al. (2019) Adaptation of Infrastructure Systems:
+<small>Hall, J.W., Thacker, S., et al. (2019) Adaptation of Infrastructure Systems:
 Background Paper for the Global Commission on Adaptation. Environmental Change
-Institute, University of Oxford, Oxford. 
+Institute, University of Oxford, Oxford.</small>
   
-Hu, X., Pant, R., Hall, J.W., Surminski, S. and Huang, J. (2019) Multi-Scale
+<small>Hu, X., Pant, R., Hall, J.W., Surminski, S. and Huang, J. (2019) Multi-Scale
 Assessment of the Economic Impacts of Flooding: Evidence from Firm to Macro-Level
-Analysis in the Chinese Manufacturing Sector. Sustainability, 11(7). 
+Analysis in the Chinese Manufacturing Sector. Sustainability, 11(7).</small>
   
-Koks, E.E., Rozenberg, J., Zorn, C., Tariverdi, M., Vousdoukas, M., Fraser, S.A.,
+<small>Koks, E.E., Rozenberg, J., Zorn, C., Tariverdi, M., Vousdoukas, M., Fraser, S.A.,
 Hall, J.W. and Hallegatte, S. (2019) A global multi-hazard risk analysis of road
-and railway infrastructure assets. Nature Communications, 10. 2677. 
+and railway infrastructure assets. Nature Communications, 10. 2677.</small>
   
-Thacker, S., Adshead, D., Fay, M., Hallegatte, S., Harvey, M., Meller, H.,
+<small>Thacker, S., Adshead, D., Fay, M., Hallegatte, S., Harvey, M., Meller, H.,
 O'Regan, N., Rozenberg, J., Watkins, G., and Hall, J.W. (2019) Infrastructure
-for sustainable development. Nature Sustainability, 2(4): 324-331. 
+for sustainable development. Nature Sustainability, 2(4): 324-331.</small>
   
-Pant, R., Zorn, C., Thacker, S. and Hall, J.W. (2018) Systemic Resilience
+<small>Pant, R., Zorn, C., Thacker, S. and Hall, J.W. (2018) Systemic Resilience
 Metrics for Interdependent Infrastrucutre Networks. Proceedings of the 6th
 International Symposium on Reliability Engineering and Risk Management (6ISRERM)
-31 May - 1 June 2018, Singapore. 
+31 May - 1 June 2018, Singapore.</small>
   
-Hall, J.W., Thacker, S., Ives, M.C., Cao, Y., Chaudry, M., Blainey, S.P.
+<small>Hall, J.W., Thacker, S., Ives, M.C., Cao, Y., Chaudry, M., Blainey, S.P.
 and Oughton, E.J. (2017) Strategic analysis of the future of national
 infrastructure. Proceedings of the Institution of Civil Engineers - Civil
-Engineering, 170(1): 39-47. 
+Engineering, 170(1): 39-47.</small>
   
-Pant, R., Thacker, S., Hall, J.W. and Alderson, D. (2017) Critical
+<small>Pant, R., Thacker, S., Hall, J.W. and Alderson, D. (2017) Critical
 infrastructure impact assessment due to flood exposure. Journal of Flood Risk
-Management. 
+Management.</small>
   
-Thacker, S., Pant, R., Hall, J.W. (2017) System-of-Systems Formulation and
+<small>Thacker, S., Pant, R., Hall, J.W. (2017) System-of-Systems Formulation and
 Disruption Analysis for Multi-Scale Critical National Infrastructures.
-Reliability Engineering and System Safety, 167: 30-41. 
+Reliability Engineering and System Safety, 167: 30-41.</small>
   
-Hall, J.W., Tran, M., Hickford, A.J. and Nicholls, R. (2016) The Future
+<small>Hall, J.W., Tran, M., Hickford, A.J. and Nicholls, R. (2016) The Future
 of National Infrastructure: A System-of-Systems Approach. Cambridge
-University Press, UK. ISBN: 9781107066021. 
+University Press, UK. ISBN: 9781107066021.</small>
   
-Pant, R., Hall, J.W. and Blainey, S.P. (2016) Vulnerability assessment
+<small>Pant, R., Hall, J.W. and Blainey, S.P. (2016) Vulnerability assessment
 framework for interdependent critical infrastructures: case-study for
 Great Britain's railway network. European Journal of Transport and
-Infrastructure Research, 16(1): 174-194. 
+Infrastructure Research, 16(1): 174-194.</small>
   
-Pant, R., Thacker, S., Hall, J.W., Alderson, D. and Barr, S. (2016) Critical
+<small>Pant, R., Thacker, S., Hall, J.W., Alderson, D. and Barr, S. (2016) Critical
 infrastructure impact assessment due to flood exposure. Journal of Flood Risk
-Management. 
+Management.</small>
   
-Hall, J.W., Berkhout, F. and Douglas, R. (2015) Responding to adaptation
-emergencies. Nature Climate Change, 5(1): 6-7. 
+<small>Hall, J.W., Berkhout, F. and Douglas, R. (2015) Responding to adaptation
+emergencies. Nature Climate Change, 5(1): 6-7.</small>
   
-Pant, R., Barker, K. and Landers, T.L. (2015) Dynamic impacts of commodity
+<small>Pant, R., Barker, K. and Landers, T.L. (2015) Dynamic impacts of commodity
 flow disruptions in inland waterway networks. Computers and Industrial
-Engineering, 89: 137-149. 
+Engineering, 89: 137-149.</small>
   
-Hall, J.W., Grey, D., Garrick, D., Fung, F., Brown, C., Dadson, S.J. and
+<small>Hall, J.W., Grey, D., Garrick, D., Fung, F., Brown, C., Dadson, S.J. and
 Sadoff, C.W. (2014) Water Security: Coping with the curse of freshwater
-variability. Science, 346(6208): 429-430. 
+variability. Science, 346(6208): 429-430.</small>
   
-Pant, R., Barker, K. and Zobel, C.W. (2014) Static and dynamic metrics of
+<small>Pant, R., Barker, K. and Zobel, C.W. (2014) Static and dynamic metrics of
 economic resilience for interdependent infrastructure and industry sectors.
-Reliability Engineering and System Safety, 125: 92-102. 
+Reliability Engineering and System Safety, 125: 92-102.</small>
   
-Pant, R., Barker, K., Ramirez-Marquez, J.E. and Rocco, C.M. (2014) Stochastic
+<small>Pant, R., Barker, K., Ramirez-Marquez, J.E. and Rocco, C.M. (2014) Stochastic
 Measures of resilience and their application to container terminals.
-Computers and Industrial Engineering, 70(1). 
+Computers and Industrial Engineering, 70(1).</small>
   
-Thacker, S., Pant, R. and Hall, J.W. (2014) Characterizing the Vulnerability
+<small>Thacker, S., Pant, R. and Hall, J.W. (2014) Characterizing the Vulnerability
 of Future Configurations of Great Britain’s Electricity Network Infrastructure
-to Climate-related Hazards. Vulnerability, Uncertainty and Risk: 648-657. 
+to Climate-related Hazards. Vulnerability, Uncertainty and Risk: 648-657.</small>
   
-Hall, J.W. and Borgomeo, E. (2013) Risk-based principles for defining and
-managing water security. Phil. Trans. Royal Society, A, 371. 20120407. 
+<small>Hall, J.W. and Borgomeo, E. (2013) Risk-based principles for defining and
+managing water security. Phil. Trans. Royal Society, A, 371. 20120407.</small>
   
-Pant, R., Thacker, S., Hall, J.W., Barr, S. and Alderson, D. (2013)
+<small>Pant, R., Thacker, S., Hall, J.W., Barr, S. and Alderson, D. (2013)
 Analyzing interdependent infrastructure provisions under extreme climate
 risks. In: Campbell P. and Perez P. (Eds), Proceedings of the International
-Symposium of Next Generation Infrastructure, Wollongong, Australia. 
+Symposium of Next Generation Infrastructure, Wollongong, Australia.</small>
   
-Hall, J.W., Brown, A., Nicholls, R.J., Pidgeon, N. and Watson, R. (2012)
-Proportionate adaptation. Nature Climate Change, 2(12): 833-834.
+<small>Hall, J.W., Brown, A., Nicholls, R.J., Pidgeon, N. and Watson, R. (2012)
+Proportionate adaptation. Nature Climate Change, 2(12): 833-834.</small>
