@@ -13,14 +13,18 @@ Systems (OPSIS), based at the University of Oxford.
 
 ## Founders and Directors
 
-Prof. Jim Hall 
-Founder and Director of Oxford Infrastructure Analytics
+### Prof. Jim Hall
+Founder and Director of OIA
+
 Professor of Climate and Environmental Risk and lead of OPSIS, University of Oxford 
  
-Dr. Raghav Pant 
-Founder and Director of Oxford Infrastructure Analytics
+ 
+### Dr. Raghav Pant 
+Founder and Director of OIA
+
 Senior Research Associate at OPSIS, University of Oxford 
  
-Dr. Scott Thacker 
-Founder and Managing Director of Oxford Infrastructure Analytics
+### Dr. Scott Thacker 
+Founder and Managing Director of OIA
+
 Honorary Research Associate at OPSIS, University of Oxford
