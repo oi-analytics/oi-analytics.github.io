@@ -9,6 +9,7 @@ Our team of experts have been pioneering the development of a new generation of 
 tools, insights and education that have been published in leading academic journals and
 are recognised worldwide.
 <br>
+<img src="/assets/img/manuscripts.png" alt="Example manuscripts">
 <br>
 #### Selected Publications
 
