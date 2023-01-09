@@ -8,9 +8,9 @@ permalink: /knowledge/
 Our team of experts have been pioneering the development of a new generation of data,
 tools, insights and education that have been published in leading academic journals and
 are recognised worldwide.
-
-
-## Selected Publications
+<br>
+<br>
+#### Selected Publications
 
 Fuldauer, L., Thacker, S. and Hall, J.W. (2022) Informing national adaptation for
 sustainable development through spatial systems modelling. Global Environmental Change,
