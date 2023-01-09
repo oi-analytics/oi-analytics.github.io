@@ -4,10 +4,10 @@ title: Services
 permalink: /services/
 ---
 
-## Data
+# Data
 
 ## Tools
 
-## Insights
+### Insights
 
-## Education
+#### Education
