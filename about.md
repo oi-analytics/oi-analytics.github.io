@@ -36,3 +36,22 @@ Systems (OPSIS), based at the University of Oxford.
 OIA works with a diverse team of expert associates to deliver value and excellence to clients on every project.
 
 <img src="/assets/img/associates.png" alt="OIA Associates">
+
+
+<small><b>Tom Russell</b></small>
+
+<small>OIA Associate</small>
+
+<small>Senior Research Software Engineer at OPSIS, University of Oxford</small>
+
+<small><b>Sarah Gall</b></small>
+
+<small>OIA Associate</small>
+
+<small>DPhil Student at OPSIS, University of Oxford</small>
+
+<small><b>Tim Fowler</b></small>
+
+<small>OIA Associate</small>
+
+<small>Programme Manager at OPSIS, University of Oxford</small>
