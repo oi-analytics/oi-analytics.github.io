@@ -11,8 +11,6 @@ from the award-winning Oxford Programme for Sustainable Infrastructure
 Systems (OPSIS), based at the University of Oxford.
 <br>
 <br>
-## Founders and Directors
-
 #### Prof. Jim Hall
 Founder and Director of OIA
 
