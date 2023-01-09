@@ -12,9 +12,9 @@ are recognised worldwide.
 <br>
 <img src="/assets/img/manuscripts.png" alt="Example manuscripts">
 <br>
-#### Selected Publications
+## Selected Publications
 
-<small>
+
 Fuldauer, L., Thacker, S. and Hall, J.W. (2022) Informing national adaptation for
 sustainable development through spatial systems modelling. Global Environmental Change,
 71(102396). 
@@ -135,4 +135,3 @@ Symposium of Next Generation Infrastructure, Wollongong, Australia.
   
 Hall, J.W., Brown, A., Nicholls, R.J., Pidgeon, N. and Watson, R. (2012)
 Proportionate adaptation. Nature Climate Change, 2(12): 833-834.
-</small>
