@@ -12,17 +12,17 @@ Systems (OPSIS), based at the University of Oxford.
 <br>
 <br>
 <img src="/assets/img/directors.png" alt="OIA Directors">
-#### Prof. Jim Hall
+<b>Prof. Jim Hall</b>
 Founder and Director of OIA
 
 Professor of Climate and Environmental Risk and lead of OPSIS, University of Oxford 
 
-#### Dr. Raghav Pant 
+<b>Dr. Raghav Pant</b>
 Founder and Director of OIA
 
 Senior Research Associate at OPSIS, University of Oxford 
 
-#### Dr. Scott Thacker 
+<b>Dr. Scott Thacker</b>
 Founder and Managing Director of OIA
 
 Honorary Research Associate at OPSIS, University of Oxford
