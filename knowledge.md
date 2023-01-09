@@ -7,7 +7,8 @@ permalink: /knowledge/
 
 Our team of experts have been pioneering the development of a new generation of data,
 tools, insights and education that have been published in leading academic journals and
-are recognised worldwide. 
+are recognised worldwide.
+
 
 ## Selected Publications
 
