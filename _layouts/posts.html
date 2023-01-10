@@ -25,6 +25,7 @@ title: News
     <ul class="post-list">
       {%- for post in posts -%}
       <li>
+        <img src="{{- post.image -}}"" alt="" class="blog-roll-image">
         <small class="post-meta">{{ post.date | date: site.date_format }}</small>
         <h3 class="post-title">
           <a class="post-link" href="{{ post.url | relative_url }}">
