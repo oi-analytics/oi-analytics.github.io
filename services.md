@@ -30,7 +30,7 @@ quantitative analytics and insightful visualisations to support evidence-based d
 that are underpinned by the best available data and tools. 
 
 ## Education
-Driven by our academic roots and our pursuit of knowledge, we are committed to delivering
+Driven by our academic roots, we are committed to delivering
 high-quality education as a tool to empower. From universities to national governments,
 we are helping to shape the next generation of researchers, technical experts and high-level
 decision makers. 
