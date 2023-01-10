@@ -26,11 +26,11 @@ solutions.
 ## Insights
 Working in collaboration with stakeholders, we use our unique skills to deliver new
 insights for a variety of sectors. Grounded in a science-based approach, our team develop
-quantitative analytics and insightful visualisations to support more informed decisions
+quantitative analytics and insightful visualisations to support evidence-based decisions
 that are underpinned by the best available data and tools. 
 
 ## Education
 Driven by our academic roots and our pursuit of knowledge, we are committed to delivering
 high-quality education as a tool to empower. From universities to national governments,
-we help shape the next generation of researchers, technical experts and high-level
+we are helping to shape the next generation of researchers, technical experts and high-level
 decision makers. 
