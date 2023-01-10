@@ -14,7 +14,7 @@ for infrastructure systems.
 
 Our unique approach represents the interconnectedness and interdependence of
 infrastructure systems, enabling us to more accurately quantify physical climate
-risks for a more efficient prioritisation of resources to enhance resilience
-through adaptation. 
-
+risks and more efficiently prioritise adaptation to enhance resilience. 
+<br>
+<br>
 <img src="/assets/img/sys_of_sys.png" alt="Infrastructure System of Systems" class ="center">
