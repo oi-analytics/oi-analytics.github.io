@@ -5,8 +5,8 @@ title: Home
 
 ## Climate Risk Analysis for Infrastructure Systems
 
-We provide data, tools, insights and education to accelerate the transition to
-sustainable and resilient infrastructure globally.
+Oxford Infrastructure Analytics (OIA) provides data, tools, insights and education
+to accelerate the transition to sustainable and resilient infrastructure globally. 
 
 Grounded in pioneering, peer-reviewed science that has been developed and
 demonstrated over the past decade, we are world-leaders in climate risk analysis
