@@ -6,7 +6,7 @@ author: 'Lena Fuldauer'
 image: /assets/img/Adaptation_SDGs_NC.png
 ---
 
-<img src="/assets/img/Adaptation_SDGs_NC.png" alt="Adaptation for the SDGs Nature Communications Manuscript" class = "center">
+<img src="/assets/img/Adaptation_SDGs_NC.png" alt="Adaptation for the SDGs Nature Communications Manuscript" class ="center">
 
 New research co-developed by OIA experts, demonstrates that, without targeted climate adaptation action across sectors, achievement of all 169 SDG targets is being threatened by the impacts of climate change.
 
