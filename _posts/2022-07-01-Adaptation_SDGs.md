@@ -12,6 +12,6 @@ To avoid maladaptive outcomes, the research provides an actionable framework to 
 
 The research highlights the importance of ecosystems, nature-based adaptation options, and strong governance arrangements as cross-sectoral components of safeguarding sustainable development in the face of climate change impacts.
 
-Read the full research paper <a href="https://www.nature.com/articles/s41467-022-31202-w" >here</a>
+Read the full research paper <a href="https://www.nature.com/articles/s41467-022-31202-w" >here</a>.
 
 <img src="/assets/img/Adaptation_SDGs_NC.png" alt="Adaptation for the SDGs Nature Communications Manuscript" class ="center">
