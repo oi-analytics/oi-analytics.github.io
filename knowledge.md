@@ -5,9 +5,9 @@ permalink: /knowledge/
 ---
 ## Knowledge
 
-Our team of experts have been pioneering the development of a new generation of data,
-tools, insights and education that have been published in leading academic journals and
-are recognised worldwide.
+Our team of internationally recognised experts have been pioneering the development of
+a new generation of data, tools, insights and education that are published in leading
+academic journals. 
 <br>
 <br>
 <img src="/assets/img/manuscripts.png" alt="Example manuscripts">
