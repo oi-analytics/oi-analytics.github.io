@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Climate risk to national development in Saint Lucia "
-date:   2022-08-21 09:00:00 +0000
+date:   2022-01-21 09:00:00 +0000
 author: 'Lena Fuldauer'
 image: /assets/img/saint-lucia-adaptation.png
 ---
