@@ -32,8 +32,12 @@ R. and Hall, J.W. (2020) <a href="https://documents1.worldbank.org/curated/en/43
 
 <small>Hu, X., Pant, R., Hall, J.W., Surminski, S. and Huang, J. (2019) <a href="https://www.mdpi.com/2071-1050/11/7/1933" >Multi-Scale
 Assessment of the Economic Impacts of Flooding: Evidence from Firm to Macro-Level Analysis in the Chinese Manufacturing Sector</a>. Sustainability, 11(7).</small>
+
+<small>Koks, E., Pant, R., Thacker, S. and Hall, J.W. (2019) <a href="https://link.springer.com/article/10.1007/s13753-019-00236-y" >Understanding business disruption and economic losses due to electricity failures and flooding</a>.. International Journal of Disaster Risk Science: 1-18.</small>
   
 <small>Koks, E.E., Rozenberg, J., Zorn, C., Tariverdi, M., Vousdoukas, M., Fraser, S.A., Hall, J.W. and Hallegatte, S. (2019) <a href="https://www.nature.com/articles/s41467-019-10442-3" >A global multi-hazard risk analysis of road and railway infrastructure assets</a>. Nature Communications, 10. 2677.</small>
+
+<small> Oughton, E.J., Ralph, D., Pant, R., Leverett, E., Copic, J., Thacker, S., Dada, R., Ruffle, S., Tuveson, M. and Hall, J.W. (2019) <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.13291" >Stochastic counterfactual risk analysis for the vulnerability assessment of cyber-physical attacks on electricity distribution infrastructure networks</a>. Risk Analysis, 39(9): 2012-2031.</small>
   
 <small>Pant, R., Zorn, C., Thacker, S. and Hall, J.W. (2018) <a href="http://rpsonline.com.sg/proceedings/6isrerm/html/RR02.xml" >Systemic Resilience Metrics for Interdependent Infrastrucutre Networks</a>. Proceedings of the 6th International Symposium on Reliability Engineering and Risk Management (6ISRERM) 31 May - 1 June 2018, Singapore.</small>
   
