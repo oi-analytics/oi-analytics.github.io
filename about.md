@@ -48,5 +48,5 @@ OIA was founded in 2017 by three academics from the award-winning Oxford Program
 <small>Programme Manager at OPSIS, University of Oxford</small>
 <br>
 <br>
-At OIA, we are always interested in speaking with like-minded individuals with an interest in infrastructure systems analysis. If you think that you would be a good fit at OIA, please get in touch by contacting us <a href="mailto:{{ site.email }}">here</a>. 
+At OIA, we are always interested in speaking with like-minded individuals with an interest in infrastructure systems analysis. If you think that you would be a good fit at OIA, please get in touch by contacting us <a href="mailto:enquiries@oi-analytics.com">here</a>. 
 
