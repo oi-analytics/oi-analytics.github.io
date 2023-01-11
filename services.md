@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 ## Services
-We use our unique knowledge of infrastructure systems and ground-breaking tools to
+We are committed to using our unique knowledge and ground-breaking tools to
 address the harmful impacts of climate change.
 <br>
 <br>
