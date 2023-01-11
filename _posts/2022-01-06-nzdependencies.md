@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quantifying infrastructure interdependencies in New Zealand"
+title:  "Quantifying interdependencies in New Zealand"
 date:   2022-01-06 09:00:00 +0000
 author: 'Scott Thacker'
 image: /assets/img/nz-risks.png
