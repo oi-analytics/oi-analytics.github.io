@@ -31,6 +31,12 @@ We are always interested in speaking with like-minded individuals with an intere
 
 <small>Honorary Research Associate at OPSIS, University of Oxford</small>
 
+<small><b>Alison Peard</b></small>
+
+<small>OIA Expert</small>
+
+<small>DPhil Student at OPSIS, University of Oxford</small>
+
 <small><b>Tom Russell</b></small>
 
 <small>OIA Expert</small>
@@ -48,4 +54,10 @@ We are always interested in speaking with like-minded individuals with an intere
 <small>OIA Manager</small>
 
 <small>Programme Manager at OPSIS, University of Oxford</small>
+
+<small><b>Nicholas Chow</b></small>
+
+<small>OIA Expert</small>
+
+<small>DPhil Student at OPSIS, University of Oxford</small>
 
