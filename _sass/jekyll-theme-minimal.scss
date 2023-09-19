@@ -242,3 +242,61 @@ footer {
 .post-author {
   font-size: 0.8em;
 }
+
+/**
+ * Team Layout
+ */
+ .team-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.team-list-item {
+  flex: 0 0 auto;
+  width: 33.33333%;
+  font-size: 0.8em;
+  box-sizing: border-box;
+  position: relative;
+  border: 2px solid white;
+  cursor: pointer;
+}
+.team-list-item:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.team-meta {
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  bottom: 0;
+  padding: 40% 0.5em 0.25em 0.5em;
+  background-color: #1720739f;
+  transition: opacity 0.3s;
+}
+.team-list-item:hover .team-meta,
+.team-list-item:focus .team-meta {
+  opacity: 1;
+}
+.team-meta,
+.team-meta h3 {
+  color: #fff;
+}
+.team-list-name {
+  font-size: 1em;
+  margin: 0;
+}
+.team-list-desc {
+  // font-size: 0.9em;
+  // color: #f0f0ff;
+  // font-style: italic;
+  padding-top: 0.5em;
+}
+.team-meta p {
+  margin: 0;
+}
+.team-image {
+  filter: grayscale(1);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
