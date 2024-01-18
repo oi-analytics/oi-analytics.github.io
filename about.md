@@ -47,7 +47,7 @@ by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
     <div class="team-meta">
       <h3 class="team-list-name">Alison Peard</h3>
       <p class="team-list-title">OIA Expert</p>
-      <p class="team-list-desc">DPhil Student at OPSIS, University of Oxford</p>
+      <p class="team-list-desc">Researcher at OPSIS, University of Oxford</p>
     </div>
   </li>
   <li class="team-list-item">
@@ -63,7 +63,7 @@ by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
     <div class="team-meta">
       <h3 class="team-list-name">Sarah Gall</h3>
       <p class="team-list-title">OIA Expert</p>
-      <p class="team-list-desc">DPhil Student at OPSIS, University of Oxford</p>
+      <p class="team-list-desc">Researcher at OPSIS, University of Oxford</p>
     </div>
   </li>
   <li class="team-list-item">
@@ -79,7 +79,7 @@ by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
     <div class="team-meta">
       <h3 class="team-list-name">Nicholas Chow</h3>
       <p class="team-list-title">OIA Expert</p>
-      <p class="team-list-desc">DPhil Student at OPSIS, University of Oxford</p>
+      <p class="team-list-desc">Researcher at OPSIS, University of Oxford</p>
     </div>
   </li>
     <li class="team-list-item">
@@ -87,7 +87,7 @@ by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
     <div class="team-meta">
       <h3 class="team-list-name">Pamela Acheng</h3>
       <p class="team-list-title">OIA Expert</p>
-      <p class="team-list-desc">DPhil Student at OPSIS, University of Oxford</p>
+      <p class="team-list-desc">Researcher at OPSIS, University of Oxford</p>
     </div>
   </li>
 </ul>
