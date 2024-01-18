@@ -82,4 +82,12 @@ by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
       <p class="team-list-desc">DPhil Student at OPSIS, University of Oxford</p>
     </div>
   </li>
+    <li class="team-list-item">
+    <img class="team-image" src="/assets/img/team-pamela.png" alt="Pamela Acheng">
+    <div class="team-meta">
+      <h3 class="team-list-name">Pamela Acheng</h3>
+      <p class="team-list-title">OIA Expert</p>
+      <p class="team-list-desc">DPhil Student at OPSIS, University of Oxford</p>
+    </div>
+  </li>
 </ul>
