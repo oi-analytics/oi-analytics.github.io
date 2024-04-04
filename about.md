@@ -11,12 +11,6 @@ Programme for Sustainable Infrastructure Systems (OPSIS), based at the
 University of Oxford. We work with a diverse team of expert associates from
 around the world to deliver value and excellence to clients on every project.
 
-We are always interested in speaking with like-minded individuals with an
-interest in shaping the future of climate risk analysis for infrastructure
-systems. If you think that you would be a good fit at OIA, please get in touch
-by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
-
-
 <ul class="team-list">
   <li class="team-list-item">
     <img class="team-image" src="/assets/img/team-jim.png" alt="Prof. Jim Hall">
@@ -91,3 +85,8 @@ by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
     </div>
   </li>
 </ul>
+
+We are always interested in speaking with like-minded individuals with an
+interest in shaping the future of climate risk analysis for infrastructure
+systems. If you think that you would be a good fit at OIA, please get in touch
+by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
