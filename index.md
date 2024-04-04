@@ -14,6 +14,8 @@ for infrastructure systems.
 
 Our unique approach represents the interconnectedness and interdependence of
 infrastructure systems, enabling us to more accurately quantify physical climate
-risks and more efficiently prioritise adaptation to enhance resilience. 
+risks and more efficiently prioritise adaptation to enhance resilience.
 
-<img src="/assets/img/OIA_Platform2.png" alt="OIA infrastructure risk and adaptation tool" class ="center">
+<br>
+<br>
+<img src="/assets/img/OIA_Platform2.png" alt="OIA risk and adaptation platform">
