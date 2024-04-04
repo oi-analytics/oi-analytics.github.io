@@ -13,6 +13,8 @@ academic journals.
 <img src="/assets/img/manuscripts.png" alt="Example manuscripts">
 <br>
 ## Selected Publications
+
+<small>Adshead, D., Paszkowski, A., Gall, S.S., Peard, A. M., Adnan, M. S. G., Verschuur, J., Hall, J. W. (2024) <a href="https://www.nature.com/articles/s41558-024-01950-2" >Climate threats to coastal infrastructure and sustainable development outcomes</a>. Nature Climate Change.</small>
   
 <small>Fuldauer, L.I., Thacker, S., Haggis, R.A., Fuso-Nerini, F., Nicholls, R.J., Hall, J.W. (2022) <a href="https://www.nature.com/articles/s41467-022-31202-w" >Targeting climate adaptation to safeguard and advance the Sustainable Development Goals</a>. Nature Communications, 13.</small>
   
