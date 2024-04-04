@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enabling changemakers in Africa "
-date:   2023-03-11 09:00:00 +0000
+date:   2023-11-03 09:00:00 +0000
 author: 'Scott Thacker'
 image: /assets/img/GCA_Changemakers.JPG
 ---
