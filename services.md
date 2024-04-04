@@ -5,7 +5,9 @@ permalink: /services/
 ---
 ## Services
 We are committed to using our unique knowledge and ground-breaking tools to
-address the harmful impacts of climate change.
+address the harmful impacts of climate change. Our unique approach represents the interconnectedness and interdependence of
+infrastructure systems, enabling us to more accurately quantify physical climate
+risks and more efficiently prioritise adaptation to enhance resilience.
 <br>
 <br>
 <img src="/assets/img/services.png" alt="Example services">
