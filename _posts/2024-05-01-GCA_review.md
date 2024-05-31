@@ -2,7 +2,7 @@
 layout: post
 title:  "Quality and innovation in adaptation assessments"
 date:   2024-05-01 09:00:00 +0000
-author: 'Pamela Acheng’
+author: 'Pamela Acheng'
 image: /assets/img/GCA-asset-review.png
 
 ---
