@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Infrastructure Systems Analytics
+## Cutting Edge Infrastructure Systems Analytics
 
 Oxford Infrastructure Analytics (OIA) provides data, tools, insights and education
 to accelerate the transition to sustainable and resilient infrastructure globally. 
