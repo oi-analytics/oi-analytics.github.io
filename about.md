@@ -35,6 +35,14 @@ around the world to deliver value and excellence to clients on every project.
       <p class="team-list-title">Founder and Managing Director of OIA</p>
       <p class="team-list-desc">Honorary Research Associate at OPSIS, University of Oxford</p>
     </div>
+      </li>
+    <li class="team-list-item">
+    <img class="team-image" src="/assets/img/team-pamela.png" alt="Pamela Acheng">
+    <div class="team-meta">
+      <h3 class="team-list-name">Pamela Acheng</h3>
+      <p class="team-list-title">OIA Expert</p>
+      <p class="team-list-desc">Researcher at OPSIS, University of Oxford</p>
+    </div>
   </li>
   <li class="team-list-item">
     <img class="team-image" src="/assets/img/team-alison.png" alt="Alison Peard">
@@ -77,14 +85,6 @@ around the world to deliver value and excellence to clients on every project.
     </div>
   </li>
     <li class="team-list-item">
-    <img class="team-image" src="/assets/img/team-pamela.png" alt="Pamela Acheng">
-    <div class="team-meta">
-      <h3 class="team-list-name">Pamela Acheng</h3>
-      <p class="team-list-title">OIA Expert</p>
-      <p class="team-list-desc">Researcher at OPSIS, University of Oxford</p>
-    </div>
-  </li>
-    <li class="team-list-item">
     <img class="team-image" src="/assets/img/OIA_BO.jpeg" alt="Boaz Ogada">
     <div class="team-meta">
       <h3 class="team-list-name">Boaz Ogada</h3>
@@ -111,6 +111,5 @@ around the world to deliver value and excellence to clients on every project.
 </ul>
 
 We are always interested in speaking with like-minded individuals with an
-interest in shaping the future of climate risk analysis for infrastructure
-systems. If you think that you would be a good fit at OIA, please get in touch
+interest in developing cutting-edge infrastructure systems analytics. If you think that you would be a good fit at OIA, please get in touch
 by <a href="mailto:enquiries@oi-analytics.com">contacting us here</a>.
