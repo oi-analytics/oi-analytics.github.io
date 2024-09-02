@@ -92,6 +92,22 @@ around the world to deliver value and excellence to clients on every project.
       <p class="team-list-desc">Researcher at ICCA, University of Nairobi</p>
     </div>
   </li>
+      <li class="team-list-item">
+    <img class="team-image" src="/assets/img/Toluwanimi Adeoti, Independent Researcher.jpg" alt="Toluwanimi Adeoti">
+    <div class="team-meta">
+      <h3 class="team-list-name">Toluwanimi Adeoti</h3>
+      <p class="team-list-title">OIA Expert</p>
+      <p class="team-list-desc">Independent Researcher</p>
+    </div>
+  </li>
+        <li class="team-list-item">
+    <img class="team-image" src="/assets/img/Adshead_researcher.jpg" alt="Daniel Adshead">
+    <div class="team-meta">
+      <h3 class="team-list-name">Daniel Adshead</h3>
+      <p class="team-list-title">OIA Expert</p>
+      <p class="team-list-desc">Researcher at the Climate Action Centre, KTH University</p>
+    </div>
+  </li>
 </ul>
 
 We are always interested in speaking with like-minded individuals with an
