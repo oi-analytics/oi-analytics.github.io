@@ -69,7 +69,7 @@ around the world to deliver value and excellence to clients on every project.
     </div>
   </li>
     <li class="team-list-item">
-    <img class="team-image" src="/assets/img/team-DavidBoroto.jpg" alt="David Boroto">
+    <img class="team-image" src="/assets/img/team-DavidBoroto.jpeg" alt="David Boroto">
     <div class="team-meta">
       <h3 class="team-list-name">David Boroto</h3>
       <p class="team-list-title">OIA Expert</p>
