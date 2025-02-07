@@ -141,7 +141,7 @@ around the world to deliver value and excellence to clients on every project.
     </div>
   </li>
         <li class="team-list-item">
-    <img class="team-image" src="/assets/img/Team_VMV.JPGG" alt="Violet Massie-Vereker">
+    <img class="team-image" src="/assets/img/Team_VMV.JPG" alt="Violet Massie-Vereker">
     <div class="team-meta">
       <h3 class="team-list-name">Violet Massie-Vereker</h3>
       <p class="team-list-title">OIA Research Assistant</p>
