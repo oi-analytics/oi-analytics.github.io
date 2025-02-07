@@ -133,19 +133,19 @@ around the world to deliver value and excellence to clients on every project.
     </div>
   </li>
         <li class="team-list-item">
-    <img class="team-image" src="/assets/img/IMG_4473.JPG" alt="Violet Massie-Vereker">
-    <div class="team-meta">
-      <h3 class="team-list-name">Violet Massie-Vereker</h3>
-      <p class="team-list-title">OIA Research Assistant</p>
-      <p class="team-list-desc">Independent Researcher</p>
-    </div>
-  </li>
-        <li class="team-list-item">
     <img class="team-image" src="/assets/img/Diana-Jaramillo.jpg" alt="Diana Jaramillo">
     <div class="team-meta">
       <h3 class="team-list-name">Diana Jaramillo</h3>
       <p class="team-list-title">OIA Expert</p>
       <p class="team-list-desc">Researcher at OPSIS, University of Oxford</p>
+    </div>
+  </li>
+        <li class="team-list-item">
+    <img class="team-image" src="/assets/img/Team_VMV.JPGG" alt="Violet Massie-Vereker">
+    <div class="team-meta">
+      <h3 class="team-list-name">Violet Massie-Vereker</h3>
+      <p class="team-list-title">OIA Research Assistant</p>
+      <p class="team-list-desc">Independent Researcher</p>
     </div>
   </li>
 </ul>
