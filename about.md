@@ -149,7 +149,7 @@ around the world to deliver value and excellence to clients on every project.
     </div>
   </li>
         <li class="team-list-item">
-    <img class="team-image" src="/assets/img/Alberto.jpg" alt="Alberto Fernandez-Perez">
+    <img class="team-image" src="/assets/img/Alberto_OIA.jpg" alt="Alberto Fernandez-Perez">
     <div class="team-meta">
       <h3 class="team-list-name">Alberto Fernandez-Perez</h3>
       <p class="team-list-title">OIA Expert</p>
@@ -157,7 +157,7 @@ around the world to deliver value and excellence to clients on every project.
     </div>
   </li>
         <li class="team-list-item">
-    <img class="team-image" src="/assets/img/Carlo.jpg" alt="Carlo Palazzi">
+    <img class="team-image" src="/assets/img/Carlo_OIA.jpg" alt="Carlo Palazzi">
     <div class="team-meta">
       <h3 class="team-list-name">Carlo Palazzi</h3>
       <p class="team-list-title">OIA Expert</p>
