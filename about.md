@@ -151,7 +151,7 @@ around the world to deliver value and excellence to clients on every project.
         <li class="team-list-item">
     <img class="team-image" src="/assets/img/Alberto_OIA.jpg" alt="Alberto Fernandez-Perez">
     <div class="team-meta">
-      <h3 class="team-list-name">Alberto Fernandez-Perez</h3>
+      <h3 class="team-list-name">Dr Alberto Fernandez-Perez</h3>
       <p class="team-list-title">OIA Expert</p>
       <p class="team-list-desc">Researcher at OPSIS, University of Oxford</p>
     </div>
