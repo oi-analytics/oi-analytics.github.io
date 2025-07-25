@@ -23,8 +23,10 @@ and airports, using our peer-reviewed risk analysis methodologies.
 
 <iframe
     id="seasia-tool"
-    src="https://seasia.infrastructureresilience.org/"
+    src="https://seasia.infrastructureresilience.org/roads/"
     title="Southeast Asia Infrastructure Risk Prototype"
     width="650"
     height="400"
 ></iframe>
+
+[Fullscreen Southeast Asia Infrastructure Risk Prototype](https://seasia.infrastructureresilience.org/)
